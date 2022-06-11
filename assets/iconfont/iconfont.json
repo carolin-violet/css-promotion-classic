@@ -1,0 +1,16 @@
+{
+  "id": "3456613",
+  "name": "Css练习",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "122709",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    }
+  ]
+}
